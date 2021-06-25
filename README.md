@@ -1,4 +1,4 @@
-Made with :blue heart: by SAMANT KUMAR
+Made with :heart: by SAMANT KUMAR
 
 ### `npm start`
 
